@@ -1,5 +1,5 @@
 libpath = ~/Library/AIScripts/SICNA
-scriptpath = /Applications/Adobe\ Illustrator\ CC\ 2018/Presets.localized/de_DE/Skripten/SICNA-Test/
+scriptpath = /Applications/Adobe\ Illustrator\ CC\ 2018/Presets.localized/de_DE/Skripten/SICNA/
 
 install :
 	@make clean
