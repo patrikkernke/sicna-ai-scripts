@@ -1,0 +1,1 @@
+﻿/*    Global font        @var {Object} - Object with fonts*/var Font = {    regular: app.textFonts.getByName("OpenSans"),    bold: app.textFonts.getByName("OpenSans-Bold")}

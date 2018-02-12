@@ -1,0 +1,1 @@
+﻿/*    Creates a Millimeter-Object an calculates other units        @param {integer} mm - Millimeters        @return {double} - Milllimeters as Points*/var Millimeter = function(mm) {        var mmAsPoint = 2.834645;        return mm* mmAsPoint}

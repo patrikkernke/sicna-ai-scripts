@@ -1,0 +1,1 @@
+﻿var mmAsPoint = 2.834645;// converts given millimeters to pointsfunction toPoints(millimeters) {    return millimeters * mmAsPoint;}// converts given points to millimetersfunction toMM(points) {    return points / mmAsPoint;}

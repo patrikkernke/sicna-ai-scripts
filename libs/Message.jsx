@@ -1,0 +1,1 @@
+﻿/**    *   Wrapper for alert for a global title    */var Message = {    info: function (msg) {        alert(msg, 'SICNA-Tools');    }  }

@@ -1,0 +1,1 @@
+﻿var Color = {        cmyk: function(c, m, y, k) {                var ink = new CMYKColor();        ink.cyan   = c;        ink.magenta = m;        ink.yellow  = y;        ink.black  = k;                return ink;    }}
